@@ -1,0 +1,12 @@
+BBINIT
+toupiaofirstturn
+toupiao
+toupiao2
+toupiaosec
+toupiao3
+if(toupiao_stop==0)%еп╤ом╤ф╠жуж╧еп╤о╠Й
+    toupiao2
+    RXRS=[rxrs,B(1),B(2),B(3)]
+else
+rxrs
+end
